@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ben
 - 👀 I’m interested in backend dev
 - 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at ben_yow@yahoo.com
 
 <!---
