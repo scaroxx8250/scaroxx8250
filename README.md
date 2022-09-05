@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning Java, Python, C#, ASP.NET Core, Javascript, React, Spring Boot and Android
+- 👀 I’m interested in backend dev
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at ben_yow@yahoo.com
 
